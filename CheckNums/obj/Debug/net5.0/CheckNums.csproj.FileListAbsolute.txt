@@ -1,0 +1,16 @@
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.exe
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.deps.json
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.runtimeconfig.json
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.runtimeconfig.dev.json
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.dll
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\ref\CheckNums.dll
+C:\Users\portiad\source\repos\CheckNums\CheckNums\bin\Debug\net5.0\CheckNums.pdb
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.csproj.AssemblyReference.cache
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.AssemblyInfoInputs.cache
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.AssemblyInfo.cs
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.csproj.CoreCompileInputs.cache
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.dll
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\ref\CheckNums.dll
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.pdb
+C:\Users\portiad\source\repos\CheckNums\CheckNums\obj\Debug\net5.0\CheckNums.genruntimeconfig.cache
